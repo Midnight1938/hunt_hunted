@@ -1,15 +1,15 @@
 #+TITLE: hunt_hunted
 #+DATE: <2022-11-09 Wed>
 
-* game built for 20 Second Game Jam
-* Idea ceremony
-- [ ] Escape people
-- [ ] Hunt the victim
-- [ ] Bomb find and defuse
-- [ ] Kill the hunters
-- [ ] Fruit Ninja
-- [ ] Archery on a timer, maintain high score
-- [ ] Crack the code, or else
+* TODO Things
+** DONE Idea ceremony
+- Bomb find and defuse
+- [X] Escape people
+- [X] Hunt the victim
+- [X] Kill the hunters
+- [X] Fruit Ninja
+- [X] Archery on a timer, maintain high score
+- [X] Crack the code, or else
 
 * Pipl
 ** Siddhant :Code::Draw:
